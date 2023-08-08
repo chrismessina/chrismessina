@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Chris. You can mostly find me on [Mastodon](https://mastodon.xyz/@chrismessina), [Twitter](https://twitter.com/chrismessina), or [Product Hunt](https://www.producthunt.com/@chrismessina).
+I'm Chris. You can mostly find me on [Mastodon](https://mastodon.xyz/@chrismessina), [Threads](https://www.threads.net/@chris), or [Product Hunt](https://www.producthunt.com/@chrismessina).
 
 I offer product, design, and strategy consulting via [Superpeer](https://superpeer.com/chrismessina), have written a few things on [Medium](https://medium.com/@chrismessina), and have [my own website](https://chrismessina.me).
 
