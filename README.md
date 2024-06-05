@@ -2,7 +2,7 @@
 
 I'm Chris. You can mostly find me on [Mastodon](https://mastodon.xyz/@chrismessina), [Threads](https://www.threads.net/@chris), or [Product Hunt](https://www.producthunt.com/@chrismessina).
 
-I offer product, design, and strategy consulting via [Superpeer](https://superpeer.com/chrismessina), have written a few things on [Medium](https://medium.com/@chrismessina), and have [my own website](https://chrismessina.me).
+I offer product, design, and [consulting](https://chrismessina.me/call-me), have written a few things on [Medium](https://medium.com/@chrismessina), and have [my own website](https://chrismessina.me).
 
 - 😄 Pronouns: he/him
 - 👔 I’m currently working on something new (details TBD!).
