@@ -1,14 +1,15 @@
 ### Hey there 👋
 
-I'm Chris. You can mostly find me on [Mastodon](https://mastodon.xyz/@chrismessina), [Threads](https://www.threads.net/@chris), or [Product Hunt](https://www.producthunt.com/@chrismessina).
+I'm Chris. You can mostly find me on [Threads](https://www.threads.net/@chris), [Product Hunt](https://www.producthunt.com/@chrismessina), and [Mastodon](https://mastodon.xyz/@chrismessina).
 
-I offer product, design, and [consulting](https://chrismessina.me/call-me), have written a few things on [Medium](https://medium.com/@chrismessina), and have [my own website](https://chrismessina.me).
+I offer product strategy, design, and [launch coaching](https://chrismessina.me/call-me), I write on [Medium](https://medium.com/@chrismessina), and have [my own website](https://chrismessina.me).
 
 - 😄 Pronouns: he/him
-- 👔 I’m currently working on something new (details TBD!).
-- 💬 I've recently been an On Deck Fellow.
-- 📍 I'm currently living in Oakland, CA.
-- 🌱 I’m currently learning about Chrome Extensions and shell scripting
+- 👔 I’m an investor in AI with the [Ride Home AI Fund](https://www.ridehomefund.com/ai-fund).
+- 💸 I've raised money from Y Combinator and participated in On Deck.
+- 🕴🏻 I worked at Google and Uber.
+- 📍 I live in Oakland, CA.
+- 🌱 I’m currently learning to build Raycast Extensions.
 - 📫 You can reach me via [my website](https://chrismessina.me/contact).
 - ⚡ Fun fact: I invented the hashtag!
 
