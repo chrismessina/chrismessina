@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Chris. You can mostly find me on [Threads](https://www.threads.net/@chris), [Product Hunt](https://www.producthunt.com/@chrismessina), and [Mastodon](https://mastodon.xyz/@chrismessina).
+I'm Chris. You can mostly find me on [Threads](https://www.threads.net/@chris), [Product Hunt](https://www.producthunt.com/@chrismessina), [Bluesky](https://bsky.app/profile/chrismessina.me), and [Mastodon](https://mastodon.xyz/@chrismessina).
 
 I offer product strategy, design, and [launch coaching](https://chrismessina.me/call-me), I write on [Medium](https://medium.com/@chrismessina), and have [my own website](https://chrismessina.me).
 
