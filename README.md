@@ -13,4 +13,7 @@ I offer product strategy, design, and [launch coaching](https://chrismessina.me/
 - 📫 You can reach me via [my website](https://chrismessina.me/contact).
 - ⚡ Fun fact: I invented the hashtag!
 
-[![/dev/null activity](https://dev-null.sh/@chrismessina/graph.svg?theme=auto)](https://dev-null.sh/@chrismessina)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="glancecard/profile-dark.svg">
+  <img src="glancecard/profile-light.svg" width="880" alt="chrismessina's GitHub activity">
+</picture>
